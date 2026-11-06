@@ -1,0 +1,8 @@
+fastapi>=0.115,<1
+uvicorn[standard]
+python-multipart
+jinja2
+transformers>=4.55,<5
+torch
+httpx
+pytest
